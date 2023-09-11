@@ -1,1 +1,7 @@
 print("hola mundo 3")
+print("hola mundo 4")
+print("hola mundo 5")
+print("hola mundo 6")
+print("hola mundo 7")
+print("hola mundo 8")
+print("hola mundo 9")
